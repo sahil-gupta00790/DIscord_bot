@@ -48,4 +48,4 @@ Note: Some commands require administrator permissions.
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. 
-git push -u origin main
+
